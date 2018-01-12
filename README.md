@@ -14,24 +14,32 @@ Snapshot of the game!
 8 guesses remaining
 Enter a letter :a
 ----                    #it's a 4 letter word 
+
 7 guesses remaining
 Enter a letter :e
 ----                    #e is not present
+
 6 guesses remaining
 Enter a letter :i
 ----                    #i is not present
+
 5 guesses remaining
 Enter a letter :o
 -o--
+
 5 guesses remaining
 Enter a letter :f
 -o--
+
 4 guesses remaining
 Enter a letter :p
 -o--
+
 3 guesses remaining
 Enter a letter :l
 lo--
+
 3 guesses remaining
 Enter a letter :s
+
 You guessed it right. The word is loss
